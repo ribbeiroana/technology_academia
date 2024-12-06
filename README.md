@@ -1,6 +1,5 @@
 # Technology - Academia Tecnológica
 
-<img src='assets/img/tela.png' alt='tela'></img>
 
 
 Este é um site para uma academia com diferentes planos de atividades físicas e informações sobre serviços como musculação, crossfit, pilates, natação, e muito mais. O projeto utiliza HTML, CSS, JavaScript e algumas bibliotecas externas para adicionar funcionalidades como slides e animações de rolagem.
